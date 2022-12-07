@@ -1,2 +1,2 @@
-# APK-SRR
-Super-Resolution Reconstruction of Fetal Brain MRI with Anatomical Prior Knowledge
+# PAK-SRR
+Super-Resolution Reconstruction of Fetal Brain MRI with Prior Anatomical Knowledge
